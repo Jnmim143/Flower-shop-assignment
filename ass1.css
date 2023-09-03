@@ -239,6 +239,8 @@
 .four-pic {
     padding-left: 250px;
     padding-top: 50px;
+    gap: 100px;
+
 }
 
 .foot {
@@ -286,6 +288,8 @@
     background-image: url('Rectangle\ 9.png');
     /* background-repeat: no-repeat; */
     background-size: cover;
+    margin-left: 140px;
+    margin-right: 140px;
 }
 
 .bg-1 {
@@ -317,7 +321,7 @@
 .form {
     display: flex;
     gap: 8px;
-    margin-left: 550px;
+    margin-left: 400px;
 
 }
 
@@ -346,4 +350,28 @@
     margin-top: 5px;
 
 
+}
+
+.bonus {
+    background-color: #e3f0fe;
+    text-align: center;
+    /* margin-right: 15%;
+    margin-left: 15%; */
+    /* margin-right: 80px;
+    margin-left: 80px; */
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.bonus-text {
+    padding-bottom: 100px;
+    padding-left: 50px;
+
+}
+
+.bonus-title {
+    padding-top: 50px;
+    padding-left: 50px;
+    text-decoration: underline;
 }
