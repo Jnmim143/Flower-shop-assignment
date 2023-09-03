@@ -1,0 +1,278 @@
+.head {
+    /* width: 3920px;
+    height: 800px;
+    flex-shrink: 0; */
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+
+
+}
+
+.flower-sec {
+    padding-left: 200px;
+}
+
+.btn-pink {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: 0;
+    color: white;
+
+
+}
+
+.first-pic {
+
+    float: right;
+    width: 30%;
+
+
+
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+
+}
+
+.first-parag {
+
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+
+}
+
+.first-div {
+
+    /* padding: 197px 972px 365px 240px; */
+    padding: 50px 150px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.deal-div {
+    padding: 230px 150px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.deal-pic {
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    /* padding: 100px 429px 100px 1175px; */
+    padding-top: 100px;
+}
+
+.sec-one {
+    text-align: center;
+    color: #272727;
+    padding-top: 100px;
+
+}
+
+.sec-two {
+    /* color: rgba(39, 39, 39, 0.60);
+    text-align: center; */
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    padding-bottom: 70px;
+
+
+}
+
+.img-one {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+
+    margin: 24px 24px;
+}
+
+.feature-container {
+    /* display: flex; */
+    display: flex;
+
+
+}
+
+.img-two {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px;
+    margin: 24px 24px;
+
+}
+
+.img-three {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+    padding: 67px 75px 0px 75px;
+
+    margin: 24px 24px;
+
+}
+
+.f-1-flower {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    /* 145.833% */
+    text-decoration-line: underline;
+}
+
+.second-sec {}
+
+.icon-1 {
+    padding: 86px 1035px 146px 317px;
+
+}
+
+.icon-2 {
+    padding: 86px 591px 146px 761px;
+}
+
+.icon-3 {
+    padding: 86px 232px 146px 1120px;
+}
+
+.off {
+    color: #E55473;
+}
+
+/* .third-sec {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    
+
+} */
+
+.four-pic {
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+.foot {
+    background: #111010;
+
+
+}
+
+.flower {
+    color: #FFF;
+    text-align: center;
+    /* padding: 128px 832px 263px 831px; */
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.flower-2 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    /* padding: 210px 649px 179px 648px; */
+    /* padding: 24px 32px; */
+    padding-top: 0px;
+    padding-bottom: 32px;
+}
+
+.last-para {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 128px;
+}
+
+.background-pic {
+    /* background: url(/Rectangle\ 9.png) */
+    background-image: url('Rectangle\ 9.png');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+.bg-1 {
+
+    padding-top: 122px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.bg-2 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+    /* 166.667% */
+
+}
+
+.form {
+    display: flex;
+    gap: 8px;
+    margin-left: 550px;
+
+}
+
+.last-form input {
+    padding: 23px 513px 22px 22px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    background: #FFF;
+    font-size: 16px;
+    border: 0;
+
+
+}
+
+.btn-last {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: 0;
+    color: white;
+    padding: 18px 30px 0 30px;
+    margin-bottom: 100px;
+    margin-top: 5px;
+
+
+}
